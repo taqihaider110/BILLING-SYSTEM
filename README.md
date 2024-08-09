@@ -80,18 +80,13 @@ Prompts for admin credentials and verifies them.
 ### `void addInvItems(struct Items *add_items, size_t arr_size, size_t size)`
 Allows adding new items to the inventory.
 
-## Contributing
+**UI REPRESENTATION**
 
-If you'd like to contribute to the project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+**MENU:**
+![Menu](https://github.com/user-attachments/assets/823d4ecb-d0c4-4386-b744-2060504c9cd6)
 
-## License
+**SHOW INVOICE:**
+![Show Invoice](https://github.com/user-attachments/assets/49498795-c71f-4991-82cd-1fc88717e44c)
 
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or suggestions, please open an issue in the repository or contact the author directly.
-
----
-
-This project is intended for educational purposes and may need further enhancements for production use.
+**GENERATE INVOICE:**
+![Generate Invoice](https://github.com/user-attachments/assets/e16ce81b-0890-44ac-9193-a7f457a3004d)
