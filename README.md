@@ -83,10 +83,13 @@ Allows adding new items to the inventory.
 **UI REPRESENTATION**
 
 **MENU:**
+
 ![Menu](https://github.com/user-attachments/assets/823d4ecb-d0c4-4386-b744-2060504c9cd6)
 
 **SHOW INVOICE:**
+
 ![Show Invoice](https://github.com/user-attachments/assets/49498795-c71f-4991-82cd-1fc88717e44c)
 
 **GENERATE INVOICE:**
+
 ![Generate Invoice](https://github.com/user-attachments/assets/e16ce81b-0890-44ac-9193-a7f457a3004d)
